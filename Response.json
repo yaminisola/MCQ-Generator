@@ -1,0 +1,12 @@
+{
+    "1": {
+        "mcq": "sample question",
+        "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+        },
+        "correct": "a"
+    }
+}
